@@ -1,0 +1,7 @@
+/Users/vugarg/Desktop/test/Client
+/Users/vugarg/Desktop/test/Client.dll
+/Users/vugarg/Desktop/test/Client.deps.json
+/Users/vugarg/Desktop/test/Client.runtimeconfig.json
+/Users/vugarg/Desktop/test/Client.pdb
+/Users/vugarg/Desktop/test/SimpleTCP.dll
+/Users/vugarg/Desktop/test/websocket-sharp-core.dll

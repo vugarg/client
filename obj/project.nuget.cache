@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "zxm0NO8afkOPqZOxHyzR3bjbw3Q0Kn6gXVeIoI8wXLGr32kT+k/eNz0rJ49vES/pvB5dzcG00gZob4A0s+WAUA==",
+  "success": true,
+  "projectFilePath": "/Users/vugarg/RiderProjects/Server/Client/Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/vugarg/.nuget/packages/simpletcp/1.0.24/simpletcp.1.0.24.nupkg.sha512",
+    "/Users/vugarg/.nuget/packages/websocketsharp.core/1.0.0/websocketsharp.core.1.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SimpleTCP 1.0.24' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SimpleTCP",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+/Users/vugarg/RiderProjects/Server/Client/bin/Release/net6.0/publish/Client
+/Users/vugarg/RiderProjects/Server/Client/bin/Release/net6.0/publish/Client.dll
+/Users/vugarg/RiderProjects/Server/Client/bin/Release/net6.0/publish/Client.deps.json
+/Users/vugarg/RiderProjects/Server/Client/bin/Release/net6.0/publish/Client.runtimeconfig.json
+/Users/vugarg/RiderProjects/Server/Client/bin/Release/net6.0/publish/Client.pdb
+/Users/vugarg/RiderProjects/Server/Client/bin/Release/net6.0/publish/SimpleTCP.dll
+/Users/vugarg/RiderProjects/Server/Client/bin/Release/net6.0/publish/websocket-sharp-core.dll

@@ -7,11 +7,11 @@
 - Run the command bellow to start the server
 
 ```console
-python3 server.py
+dotnet run
 ```
 ---
-### The server will start and and listen on port 8080
+### The client will start and connect to the server
 
 ---
 
-### Next step is to go to the client repo and follow instructions from there
+### We will be able to receive incoming messages from the server.
